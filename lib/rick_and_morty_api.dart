@@ -1,6 +1,5 @@
 export 'src/constants.dart';
-export 'src/enums.dart'
-    hide characterGenderValues, characterSpeciesValues, characterStatusValues;
+export 'src/enums.dart';
 export 'src/models/character.dart';
 export 'src/models/episode.dart';
 export 'src/models/info.dart';
