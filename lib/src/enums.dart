@@ -14,12 +14,12 @@ final characterStatusValues = {
   CharacterStatus.alive: "Alive",
   CharacterStatus.dead: "Dead",
   CharacterStatus.empty: "",
-  CharacterStatus.unknown: "Unknown",
+  CharacterStatus.unknown: "unknown",
 };
 
 final characterGenderValues = {
   CharacterGender.female: "Female",
   CharacterGender.male: "Male",
-  CharacterGender.unknown: "Unknown",
+  CharacterGender.unknown: "unknown",
   CharacterGender.empty: "",
 };
